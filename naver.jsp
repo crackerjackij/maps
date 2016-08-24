@@ -76,7 +76,7 @@ try {
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-<script type="text/javascript" src="https://openapi.map.naver.com/openapi/v3/maps.js?clientId=819P51CIfkFLx8w239gi"></script>
+<script type="text/javascript" src="https://openapi.map.naver.com/openapi/v3/maps.js?clientId=7S0CLquPNyBWZVoqAglG"></script>
 <title>Insert title here</title>
 </head>
 <body>
