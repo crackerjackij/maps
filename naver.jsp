@@ -1,5 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
+<%@ page language="java" contentType="text/html; charset=EUC-KR" pageEncoding="EUC-KR"%>
 <%@ page import="java.io.*"%>    
 <%@ page import="java.net.*"%>    
 <%@ page import="java.util.*"%>    
@@ -26,7 +25,7 @@ String y = "";
 try {
 	URL url = new URL(api);
 	HttpsURLConnection http = (HttpsURLConnection)url.openConnection();
-	http.setRequestProperty("X-Naver-Client-Id", "819P51CIfkFLx8w239gi");
+	http.setRequestProperty("X-Naver-Client-Id", "7S0CLquPNyBWZVoqAglG");
 	http.setRequestProperty("X-Naver-Client-Secret", "tS6KoorXEC");
 	//http.setDoOutput(true);
 	//네이버는 반드시 GET방식으로 호출해야함.
